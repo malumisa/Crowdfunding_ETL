@@ -11,14 +11,14 @@ In this mini project, I worked in a team to practice building an ETL pipeline us
 ##### Export the subcategory DataFrame as subcategory.csv and save on GitHub repository.
 
 ### Create the Campaign DataFrame
-•	Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame
-•	Export the campaign DataFrame as campaign.csv and save it on GitHub repository
+##### Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame
+##### Export the campaign DataFrame as campaign.csv and save it on GitHub repository
 
 ### Create the Contacts DataFrame
-•	Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
+##### Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
 
-Option 1: Use Python dictionary methods.
-Option 2: Use regular expressions
+##### Option 1: Use Python dictionary methods.
+##### Option 2: Use regular expressions
 
 If you chose Option 1, complete the following steps:
 o	Import the contacts.xlsx file into a DataFrame.
