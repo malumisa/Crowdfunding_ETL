@@ -5,8 +5,8 @@
 In this mini project, I worked in a team to practice building an ETL pipeline using Python, Pandas, Python dictionary methods and regular expressions to extract and transform the data. After transforming the data, I created four CSV files and used the CSV file data to create an ERD and table schema. Finally, I uploaded the CSV file data into a PostgreSQL database. The mini project allowed me to collaborate and communicate with team members as we regularly checked on each other and offered support.
 ## Resources and Steps
 ### Create the Category and Subcategory DataFrames
-	Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame
-	Export the category DataFrame as category.csv and save it to your GitHub repository.
+Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame
+Export the category DataFrame as category.csv and save it to your GitHub repository.
 Export the category DataFrame as category.csv and save it on GitHub repository.
 Export the subcategory DataFrame as subcategory.csv and save on GitHub repository.
 
