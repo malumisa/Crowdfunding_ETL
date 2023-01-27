@@ -38,12 +38,12 @@ In this mini project, I worked in a team to practice building an ETL pipeline us
 ##### Clean and then export the DataFrame as contacts.csv and save it on GitHub repository.
 
 ### Create the Crowdfunding Database
-o	Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD 
-o	Use the information from the ERD to create a table schema for each CSV file.
-o	Save the database schema as a Postgres file named crowdfunding_db_schema.sql, and save it on GitHub repository.
-o	Create a new Postgres database, named crowdfunding_db.
-o	Using the database schema, create the tables in the correct order to handle the foreign keys.
-o	Verify the table creation by running a SELECT statement for each table.
-o	Import each CSV file into its corresponding SQL table.
-o	Verify that each table has the correct data by running a SELECT statement for each.
+##### Inspect the four CSV files, and then sketch an ERD of the tables by using QuickDBD 
+##### Use the information from the ERD to create a table schema for each CSV file.
+##### Save the database schema as a Postgres file named crowdfunding_db_schema.sql, and save it on GitHub repository.
+##### Create a new Postgres database, named crowdfunding_db.
+##### Using the database schema, create the tables in the correct order to handle the foreign keys.
+##### Verify the table creation by running a SELECT statement for each table.
+##### Import each CSV file into its corresponding SQL table.
+##### Verify that each table has the correct data by running a SELECT statement for each.
 
