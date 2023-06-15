@@ -14,7 +14,7 @@ In this mini project, I worked in a team to practice building an ETL pipeline us
 ##### Extract and transform the crowdfunding.xlsx Excel data to create a campaign DataFrame
 ##### Export the campaign DataFrame as campaign.csv and save it on GitHub repository
 
-### Create the Contacts DataFrame
+### Creaing the Contacts DataFrame
 ##### Choose one of the following two options for extracting and transforming the data from the contacts.xlsx Excel data:
 
 ##### Option 1: Use Python dictionary methods.
